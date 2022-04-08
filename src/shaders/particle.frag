@@ -1,5 +1,3 @@
-// @author brunoimbrizi / http://brunoimbrizi.com
-
 precision highp float;
 
 uniform sampler2D uTexture;
